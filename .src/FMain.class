@@ -22,7 +22,7 @@ Try Exec ["crc32", AbrirArchivo.Text] To ShowCRC
 If Error Then
   Estado.Text = "No se pudo obtener el CRC32 del archivo, o libarchive-zip-perl no está instalado."
 Else
-  ShowCRC = String.Left(ShowCRC, String.Len(ShowCRC) - 2) 'Aqui eliminamos el salto de linea de CRC32
+  ShowCRC = String.Left(ShowCRC, String.Len(ShowCRC) - 1) 'Aqui eliminamos el salto de linea de CRC32
   ShowCRC = UCase$(ShowCRC)
   NuevoNombre = DireccionArchivo &/ NombreArchivo & " [" & ShowCRC & "]." & ExtensionArchivo
   Estado.Text = "Renombrando archivo..."

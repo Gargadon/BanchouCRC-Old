@@ -32,7 +32,7 @@ Else
   If Not Error Then Kill AbrirArchivo.Text
 Endif 
   Estado.Text = "El archivo ha sido renombrado a " & NombreArchivo & " [" & ShowCRC & "]." & ExtensionArchivo
-  AbrirArchivo.Text == "Seleccione archivo"
+  AbrirArchivo.Text = "Seleccione archivo"
 Endif
 Endif
 End

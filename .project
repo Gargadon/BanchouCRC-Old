@@ -2,7 +2,7 @@
 # Compiled with Gambas 3.5.4
 Title=BanchouCRC 2.0
 Startup=FMain
-Version=2.0.1
+Version=2.0.2
 Component=gb.image
 Component=gb.gui
 Component=gb.form
@@ -16,7 +16,7 @@ Maintainer=David Kantun
 Address=dkantun@gmail.com
 Url=www.gargadon.info
 License=General Public License
-PackageName=banchoucrc-2.0.1
+PackageName=banchoucrc-2.0.2
 Packager=1
 Systems=autotools
 Menus=debian:"Games/Tools"

@@ -3,9 +3,8 @@
 { Form Form
   MoveScaled(0,0,77,45)
   Font = Font["Droid Sans"]
-  Expand = True
   Icon = Picture["addcrc.png"]
-  AutoResize = True
+  Resizable = False
   { Help Menu
     Text = ("Ayuda")
     { OpenFile Menu

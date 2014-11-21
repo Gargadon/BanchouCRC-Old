@@ -3,7 +3,7 @@
 { Form Form
   MoveScaled(0,0,77,45)
   Font = Font["Droid Sans"]
-  Icon = Picture["addcrc.png"]
+  Icon = Picture["banchoucrc.png"]
   Resizable = False
   { Help Menu
     Text = ("Ayuda")

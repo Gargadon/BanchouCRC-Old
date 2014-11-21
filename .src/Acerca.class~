@@ -1,0 +1,43 @@
+' Gambas class file
+
+Public Sub Run() As Boolean
+
+  Return Not Me.ShowModal()
+
+End
+
+Public Sub btnOK_Click()
+
+  Me.Close(True)
+
+End
+
+Public Sub btnCancel_Click()
+
+  Me.Close
+
+End
+
+
+Public Sub Label1_MouseDown()
+
+  
+
+End
+
+Public Sub Titulo_MouseDown()
+
+  
+
+End
+
+Public Sub AboutBCRC_MouseDown()
+
+  If Mouse.Left = True Then 
+    If Mouse.X >= 0 And Mouse.Y >= 0 And Mouse.X <= AboutBCRC.Width And 
+Mouse.y <= AboutBCRC.Height Then 
+    Print "Click!" 
+    Endif 
+  Endif 
+
+End

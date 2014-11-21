@@ -1,0 +1,35 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,77,45)
+  Font = Font["Droid Sans"]
+  Icon = Picture["addcrc.png"]
+  Resizable = False
+  { Help Menu
+    Text = ("Ayuda")
+    { OpenFile Menu
+      Text = ("Abrir archivo...")
+    }
+    { About Menu
+      Text = ("Acerca de...")
+    }
+    { Exit Menu
+      Text = ("Salir")
+    }
+  }
+  { AnadirCRC Button
+    MoveScaled(9,16,57,14)
+    Text = ("ADDCRC!!!!1")
+  }
+  { AbrirArchivo ButtonBox
+    MoveScaled(9,6,57,6)
+    Text = ("Seleccione archivo")
+  }
+  { Estado Label
+    MoveScaled(1,37,73,3)
+    Text = ("Listo.")
+  }
+  { Separator1 Separator
+    MoveScaled(1,35,74,1)
+  }
+}

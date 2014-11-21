@@ -1,0 +1,26 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,64,64)
+  Resizable = False
+  Arrangement = Arrange.Vertical
+  Spacing = True
+  Margin = True
+  { Label1 Label
+    MoveScaled(6,11,50,11)
+    Text = ("BanchouCRC es un asistente de asignación de CRC32 para\narchivos que utiliza libarchive-zip-perl para trabajar.")
+  }
+  { HBox1 HBox
+    MoveScaled(1,59,62,4)
+    Spacing = True
+    { Panel1 Panel
+      MoveScaled(4,0,4,4)
+      Expand = True
+    }
+    { btnOK Button
+      MoveScaled(23,0,16,4)
+      Text = ("OK")
+      Default = True
+    }
+  }
+}

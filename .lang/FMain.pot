@@ -22,23 +22,23 @@ msgstr ""
 msgid "Abrir archivo..."
 msgstr ""
 
-#: FMain.form:27
+#: FMain.form:28
 msgid "Acerca de..."
 msgstr ""
 
-#: FMain.form:31
+#: FMain.form:33
 msgid "Salir"
 msgstr ""
 
-#: FMain.form:37
+#: FMain.form:40
 msgid "ADDCRC!!!!1"
 msgstr ""
 
-#: FMain.form:42
+#: FMain.form:45
 msgid "Seleccione archivo"
 msgstr ""
 
-#: FMain.form:47
+#: FMain.form:50
 msgid "Listo."
 msgstr ""
 

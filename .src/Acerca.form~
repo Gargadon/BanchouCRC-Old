@@ -5,7 +5,7 @@
   #Scaled = False
   Font = Font["Droid Sans"]
   Drop = True
-  Icon = Picture["addcrc.png"]
+  Icon = Picture["banchoucrc.png"]
   Resizable = False
   Sticky = True
   SkipTaskbar = True

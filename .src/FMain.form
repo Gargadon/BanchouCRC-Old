@@ -9,12 +9,15 @@
     Text = ("Ayuda")
     { OpenFile Menu
       Text = ("Abrir archivo...")
+      Shortcut = "Alt+O"
     }
     { About Menu
       Text = ("Acerca de...")
+      Shortcut = "Alt+H"
     }
     { Exit Menu
       Text = ("Salir")
+      Shortcut = "Ctrl+Q"
     }
   }
   { AnadirCRC Button

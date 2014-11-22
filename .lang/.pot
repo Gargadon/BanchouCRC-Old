@@ -29,8 +29,8 @@ msgid ""
 "BanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el "
 "código fuente de este software.\n"
 "<br /><br />\n"
-"Puedes colaborar con la mejora de BanchouPatcher entrando a cualquiera de "
-"las siguientes direcciones:\n"
+"Puedes colaborar con la mejora de BanchouCRC entrando a cualquiera de las "
+"siguientes direcciones:\n"
 "<br /><br />\n"
 "-Gargadon's Dungeon: http://www.gargadon.info/<br />\n"
 "-GitHub: https://github.com/Gargadon/BanchouCRC"
@@ -48,22 +48,22 @@ msgstr ""
 msgid "Abrir archivo..."
 msgstr ""
 
-#: FMain.form:27
+#: FMain.form:28
 msgid "Acerca de..."
 msgstr ""
 
-#: FMain.form:31
+#: FMain.form:33
 msgid "Salir"
 msgstr ""
 
-#: FMain.form:37
+#: FMain.form:40
 msgid "ADDCRC!!!!1"
 msgstr ""
 
-#: FMain.form:42
+#: FMain.form:45
 msgid "Seleccione archivo"
 msgstr ""
 
-#: FMain.form:47
+#: FMain.form:50
 msgid "Listo."
 msgstr ""

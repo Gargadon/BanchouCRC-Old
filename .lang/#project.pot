@@ -18,3 +18,7 @@ msgstr ""
 msgid "BanchouCRC 2.0"
 msgstr ""
 
+#: .project:2
+msgid "crc32 wizard for add CRC32 checksum in name file."
+msgstr ""
+

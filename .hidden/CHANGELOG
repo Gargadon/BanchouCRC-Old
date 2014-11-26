@@ -1,3 +1,11 @@
+* Tue Nov 25 2014 David Kantun (Gargadon) <dkantun@gmail.com> 2.1.0
+- New Feature: Only checksum comprobation, not rename file.
+
+* Tue Nov 25 2014 David Kantun (Gargadon) <dkantun@gmail.com> 2.1.2
+- New Feature: Only checksum comprobation, not rename file.
+
+* Sun Nov 23 2014 David Kantun (Gargadon) <dkantun@gmail.com> 2.0.2
+
 * Sat Nov 22 2014 David Kantun (Gargadon) <dkantun@gmail.com> 2.0.2
 
 * Sat Nov 22 2014 David Kantun (Gargadon) <dkantun@gmail.com> 2.0.2

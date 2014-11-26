@@ -19,10 +19,10 @@ msgid "Sobre BanchouCRC"
 msgstr ""
 
 #: Acerca.form:30
-msgid "BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nLa nueva versión 2.0 está realizada enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouCRC entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC"
+msgid "BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nDesde la versión 2.0, está realizado enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouCRC entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC"
 msgstr ""
 
 #: Acerca.form:44
-msgid "OK"
+msgid "Cerrar"
 msgstr ""
 

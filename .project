@@ -1,16 +1,16 @@
 # Gambas Project File 3.0
 # Compiled with Gambas 3.5.4
-Title=BanchouCRC 2.0
+Title=BanchouCRC 2.1
 Startup=FMain
-UseTerminal=1
 Icon=banchoucrc.png
-Version=2.0.2
+Version=2.1.0
 Component=gb.image
 Component=gb.gui
 Component=gb.form
 Component=gb.gui.opengl
 Component=gb.opengl
-Description="crc32 wizard for add CRC32 checksum in name file."
+Description="crc32 wizard for CRC32 checksum in name file."
+Authors="David Kantun"
 TabSize=2
 Translate=1
 Language=es
@@ -19,14 +19,13 @@ Maintainer=David Kantun (Gargadon)
 Address=dkantun@gmail.com
 Url=www.gargadon.info
 License=General Public License
-PackageName=banchoucrc-2.0.2
-PackageVersion=3
+PackageName=banchoucrc-2.1.0
 Packager=1
 Systems=autotools
 Menus=debian:"Applications/Data Management"
 Categories=debian:"Utility"
 Groups=debian:"utils"
-ExtraDependencies=debian:"libarchive-zip-perl\t\t"
+ExtraDependencies=debian:"libarchive-zip-perl\t\t\ngambas3-gb-gui-opengl\t\t"
 Groups=fedora:"Applications/File"
 Groups=mageia:"File tools"
 Groups=mandriva:"File tools"

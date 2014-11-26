@@ -15,10 +15,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1
-msgid "BanchouCRC 2.0"
+msgid "BanchouCRC 2.1"
 msgstr ""
 
 #: .project:2
-msgid "crc32 wizard for add CRC32 checksum in name file."
+msgid "crc32 wizard for CRC32 checksum in name file."
 msgstr ""
 

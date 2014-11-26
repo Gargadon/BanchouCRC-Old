@@ -19,7 +19,7 @@
   }
   { AboutBCRC TextLabel
     Move(7,49,357,231)
-    Text = ("BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nLa nueva versión 2.0 está realizada enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouCRC entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC")
+    Text = ("BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nDesde la versión 2.0, está realizado enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouCRC entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC")
   }
   { HBox1 HBox
     Move(28,315,315,28)
@@ -30,7 +30,7 @@
     }
     { btnOK Button
       Move(105,0,112,28)
-      Text = ("OK")
+      Text = ("Cerrar")
       Default = True
     }
   }

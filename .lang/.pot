@@ -11,7 +11,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1
-msgid "BanchouCRC 2.0"
+msgid "BanchouCRC 2.1"
+msgstr ""
+
+#: .project:2
+msgid "crc32 wizard for CRC32 checksum in name file."
 msgstr ""
 
 #: Acerca.form:25
@@ -23,7 +27,7 @@ msgid ""
 "BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza "
 "libarchive-zip-perl para trabajar.\n"
 "<br /><br />\n"
-"La nueva versión 2.0 está realizada enteramente en Gambas3, sustituyendo a "
+"Desde la versión 2.0, está realizado enteramente en Gambas3, sustituyendo a "
 "AddCRC32ForLinux y a Zenity.\n"
 "<br /><br />\n"
 "BanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el "
@@ -37,33 +41,69 @@ msgid ""
 msgstr ""
 
 #: Acerca.form:44
-msgid "OK"
+msgid "Cerrar"
 msgstr ""
 
-#: FMain.form:20
+#: FMain.form:22
 msgid "Ayuda"
 msgstr ""
 
-#: FMain.form:23
+#: FMain.form:25
 msgid "Abrir archivo..."
 msgstr ""
 
-#: FMain.form:28
+#: FMain.form:30
 msgid "Acerca de..."
 msgstr ""
 
-#: FMain.form:33
+#: FMain.form:35
 msgid "Salir"
 msgstr ""
 
-#: FMain.form:40
+#: FMain.form:42
 msgid "ADDCRC!!!!1"
 msgstr ""
 
-#: FMain.form:45
+#: FMain.form:47
 msgid "Seleccione archivo"
 msgstr ""
 
-#: FMain.form:50
+#: FMain.form:52
 msgid "Listo."
+msgstr ""
+
+#: FMain.form:61
+msgid "Solo comprobar"
+msgstr ""
+
+#: FMain.class:19
+msgid "Calculando CRC..."
+msgstr ""
+
+#: FMain.class:22
+msgid "Seleccione un archivo."
+msgstr ""
+
+#: FMain.class:26
+msgid "No se pudo obtener el CRC32 del archivo."
+msgstr ""
+
+#: FMain.class:31
+msgid "El CRC32 del archivo es "
+msgstr ""
+
+#: FMain.class:31
+msgid " y no se encuentra en el nombre o no coinciden."
+msgstr ""
+
+#: FMain.class:33
+msgid " y coincide con el CRC32 calculado."
+msgstr ""
+
+#: FMain.class:52
+msgid "Renombrando archivo..."
+msgstr ""
+
+#: FMain.class:58
+msgid "El archivo ha sido renombrado a "
 msgstr ""

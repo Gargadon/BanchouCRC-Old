@@ -32,12 +32,5 @@ Public Sub Titulo_MouseDown()
 End
 
 Public Sub AboutBCRC_MouseDown()
-
-  If Mouse.Left = True Then 
-    If Mouse.X >= 0 And Mouse.Y >= 0 And Mouse.X <= AboutBCRC.Width And 
-Mouse.y <= AboutBCRC.Height Then 
-    Print "Click!" 
-    Endif 
-  Endif 
-
+..
 End

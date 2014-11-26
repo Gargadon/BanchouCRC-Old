@@ -12,46 +12,86 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1
-msgid "BanchouCRC 2.0"
-msgstr "BanchouCRC 2.0"
+msgid "BanchouCRC 2.1"
+msgstr "BanchouCRC 2.1"
+
+#: .project:2
+msgid "crc32 wizard for CRC32 checksum in name file."
+msgstr "crc32 wizard for CRC32 checksum in name file."
 
 #: Acerca.form:25
 msgid "Sobre BanchouCRC"
 msgstr "Sobre BanchouCRC"
 
 #: Acerca.form:30
-msgid "BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nLa nueva versión 2.0 está realizada enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouPatcher entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC"
-msgstr "BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nLa nueva versión 2.0 está realizada enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouPatcher entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC"
+msgid "BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nDesde la versión 2.0, está realizado enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouCRC entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC"
+msgstr "BanchouCRC es un asistente de asignación de CRC32 para archivos que utiliza libarchive-zip-perl para trabajar.\n<br /><br />\nDesde la versión 2.0, está realizado enteramente en Gambas3, sustituyendo a AddCRC32ForLinux y a Zenity.\n<br /><br />\nBanchouCRC está liberado bajo la licencia GPLv2, la cual se incluye en el código fuente de este software.\n<br /><br />\nPuedes colaborar con la mejora de BanchouCRC entrando a cualquiera de las siguientes direcciones:\n<br /><br />\n-Gargadon's Dungeon: http://www.gargadon.info/<br />\n-GitHub: https://github.com/Gargadon/BanchouCRC"
 
 #: Acerca.form:44
-msgid "OK"
-msgstr "OK"
+msgid "Cerrar"
+msgstr "Cerrar"
 
-#: FMain.form:20
+#: FMain.class:19
+msgid "Calculando CRC..."
+msgstr "Calculando CRC..."
+
+#: FMain.class:22
+msgid "Seleccione un archivo."
+msgstr "Seleccione un archivo."
+
+#: FMain.class:26
+msgid "No se pudo obtener el CRC32 del archivo."
+msgstr "No se pudo obtener el CRC32 del archivo."
+
+#: FMain.class:31
+msgid " y no se encuentra en el nombre o no coinciden."
+msgstr " y no se encuentra en el nombre o no coinciden."
+
+#: FMain.class:31
+msgid "El CRC32 del archivo es "
+msgstr "El CRC32 del archivo es "
+
+#: FMain.class:33
+msgid " y coincide con el CRC32 calculado."
+msgstr " y coincide con el CRC32 calculado."
+
+#: FMain.class:52
+msgid "Renombrando archivo..."
+msgstr "Renombrando archivo..."
+
+#: FMain.class:58
+msgid "El archivo ha sido renombrado a "
+msgstr "El archivo ha sido renombrado a "
+
+#: FMain.form:22
 msgid "Ayuda"
 msgstr "Ayuda"
 
-#: FMain.form:23
+#: FMain.form:25
 msgid "Abrir archivo..."
 msgstr "Abrir archivo..."
 
-#: FMain.form:27
+#: FMain.form:30
 msgid "Acerca de..."
 msgstr "Acerca de..."
 
-#: FMain.form:31
+#: FMain.form:35
 msgid "Salir"
 msgstr "Salir"
 
-#: FMain.form:37
-msgid "ADDCRC!!!!1"
-msgstr "ADDCRC!!!!1"
-
 #: FMain.form:42
+msgid "ADDCRC!!!!1"
+msgstr "-"
+
+#: FMain.form:47
 msgid "Seleccione archivo"
 msgstr "Seleccione archivo"
 
-#: FMain.form:47
+#: FMain.form:52
 msgid "Listo."
 msgstr "Listo."
+
+#: FMain.form:61
+msgid "Solo comprobar"
+msgstr "Solo comprobar"
 

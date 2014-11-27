@@ -63,35 +63,39 @@ msgstr "Renombrando archivo..."
 msgid "El archivo ha sido renombrado a "
 msgstr "El archivo ha sido renombrado a "
 
-#: FMain.form:22
-msgid "Ayuda"
-msgstr "Ayuda"
+#: FMain.form:23
+msgid "Archivo"
+msgstr "Archivo"
 
-#: FMain.form:25
+#: FMain.form:26
 msgid "Abrir archivo..."
 msgstr "Abrir archivo..."
 
-#: FMain.form:30
-msgid "Acerca de..."
-msgstr "Acerca de..."
-
-#: FMain.form:35
+#: FMain.form:31
 msgid "Salir"
 msgstr "Salir"
 
-#: FMain.form:42
+#: FMain.form:37
+msgid "Ayuda"
+msgstr "Ayuda"
+
+#: FMain.form:40
+msgid "Acerca de..."
+msgstr "Acerca de..."
+
+#: FMain.form:47
 msgid "ADDCRC!!!!1"
 msgstr "-"
 
-#: FMain.form:47
+#: FMain.form:52
 msgid "Seleccione archivo"
 msgstr "Seleccione archivo"
 
-#: FMain.form:52
+#: FMain.form:57
 msgid "Listo."
 msgstr "Listo."
 
-#: FMain.form:61
+#: FMain.form:66
 msgid "Solo comprobar"
 msgstr "Solo comprobar"
 

@@ -5,22 +5,19 @@
   Font = Font["Droid Sans"]
   Icon = Picture["banchoucrc.png"]
   Resizable = False
-  { File Menu
-    Text = ("Archivo")
+  { Help Menu
+    Text = ("Ayuda")
     { OpenFile Menu
       Text = ("Abrir archivo...")
       Shortcut = "Alt+O"
     }
-    { Exit Menu
-      Text = ("Salir")
-      Shortcut = "Ctrl+Q"
-    }
-  }
-  { Help Menu
-    Text = ("Ayuda")
     { About Menu
       Text = ("Acerca de...")
       Shortcut = "Alt+H"
+    }
+    { Exit Menu
+      Text = ("Salir")
+      Shortcut = "Ctrl+Q"
     }
   }
   { AnadirCRC Button

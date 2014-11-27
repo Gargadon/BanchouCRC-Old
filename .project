@@ -2,11 +2,13 @@
 # Compiled with Gambas 3.5.4
 Title=BanchouCRC 2.1
 Startup=FMain
+UseTerminal=1
 Icon=banchoucrc.png
-Version=2.1.1
+Version=2.1.3
 Component=gb.image
 Component=gb.gui
 Component=gb.form
+Component=gb.form.stock
 Component=gb.gui.opengl
 Component=gb.opengl
 Description="crc32 wizard for CRC32 checksum in name file."
@@ -19,7 +21,7 @@ Maintainer=David Kantun (Gargadon)
 Address=dkantun@gmail.com
 Url=www.gargadon.info
 License=General Public License
-PackageName=banchoucrc-2.1.1
+PackageName=banchoucrc-2.1.2
 Packager=1
 Systems=debian
 Menus=debian:"Applications/Data Management"

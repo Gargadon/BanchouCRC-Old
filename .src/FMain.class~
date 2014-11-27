@@ -11,11 +11,11 @@ End
 Public Sub AnadirCRC_Click()
 Dim ShowCRC As String
 Dim NuevoNombre As String
-Dim NombreArchivo As String = File.BaseName(Dialog.Path)
+Dim NombreArchivo As String = File.BaseNameAbrirArchivo.Text)
 Dim ExtensionArchivo As String = File.Ext(Dialog.Path)
 Dim DireccionArchivo As String = File.Dir(Dialog.Path)
 If Comprobar.Value = True Then
-
+Print NombreArchivo
 Estado.Text = ("Calculando CRC...")
 
     If AbrirArchivo.Text == ("Seleccione archivo") Then
@@ -84,13 +84,6 @@ Me.Close
 
 End
 
-Public Sub OpenFile_Click()
-
-If Dialog.OpenFile() Then Return
-  AbrirArchivo.Text = Dialog.Path
-
-End
-
 
 Public Sub Estado_MouseDown()
 
@@ -98,8 +91,10 @@ Public Sub Estado_MouseDown()
 
 End
 
-Public Sub ComprobarTag_MouseUp()
-Estado.Text = ("Select this option for only calculate CRC32 checksum, not rename.")
+Public Sub ComprobarTag_MouseDown()
+
+  
+
 
 End
 

@@ -14,39 +14,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: FMain.form:23
-msgid "Archivo"
-msgstr ""
-
-#: FMain.form:26
-msgid "Abrir archivo..."
-msgstr ""
-
-#: FMain.form:31
-msgid "Salir"
-msgstr ""
-
-#: FMain.form:37
+#: FMain.form:22
 msgid "Ayuda"
 msgstr ""
 
-#: FMain.form:40
+#: FMain.form:25
+msgid "Abrir archivo..."
+msgstr ""
+
+#: FMain.form:30
 msgid "Acerca de..."
 msgstr ""
 
-#: FMain.form:47
+#: FMain.form:35
+msgid "Salir"
+msgstr ""
+
+#: FMain.form:42
 msgid "ADDCRC!!!!1"
 msgstr ""
 
-#: FMain.form:52
+#: FMain.form:47
 msgid "Seleccione archivo"
 msgstr ""
 
-#: FMain.form:57
+#: FMain.form:52
 msgid "Listo."
 msgstr ""
 
-#: FMain.form:66
+#: FMain.form:61
 msgid "Solo comprobar"
 msgstr ""
 
